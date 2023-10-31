@@ -3,6 +3,7 @@
 ### NIM            : 312210004 ###
 ### Kelas          : TI.22.A.1 ### 
 ### Dosen Pengampu : Donny Maulana S.Kom., M.M.S.I
+
 # ProjectFibonacci
 
 # Tugas Pertemuan 6
@@ -13,13 +14,13 @@
 
 1. Hal yang pertama kita harus lakukan adalan membuat project barunya terlebih dahulu dengan nama project "tugasenam"
 
-2. Kemudian pada layout activity_main ditambahkan kita tambahkan 3 "button" dan 1 "textview" seperti berikut
+2. Kemudian pada layout activity_main kita tambahkan 3 "button" dan 1 "textview" seperti berikut
 
 
 
 3. Pada button yang pertama itu berfungsi sebagai tombol "Toast" yang nantinya ketika kita tekan akan muncul sebuah toast message yaitu "Bilangan Fibonacci". Dan button yang kedua, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya. lalu kemudian yang terakhir Textview, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
 
-4. langkah selajutnya kemudian kita masukkan untuk codingan didalam activity_fibonacci seperti berikut
+4. langkah yang perlu kita lakukan selajutnya adalah masukkan codingan didalam activity_fibonacci seperti berikut
 
  * activity_fibonacci.xml
   
@@ -134,7 +135,7 @@
 
   # MainActivity.java
 
-  Pada MainActivity.java berisi semua codingan untuk fungsi-fungsinya. Seperti, fungsi untuk 
+  Dalam MainActivity.java ini berisi semua codingan untuk fungsi-fungsinya. Seperti, fungsi untuk 
   tombol-tombol dan rumus bilangan fibonaccinya.
 
           package com.tugasenam;
