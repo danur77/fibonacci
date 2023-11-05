@@ -240,6 +240,10 @@ Untuk run app ini saya menggunakan hp android . Berikut ini adalah tampilan dari
 
 https://github.com/danur77/fibonacci/assets/115677839/04ef146b-7de9-40d5-80c5-018bf3be7019
 
+### *set bilangan limit berguna untuk membatasi jumlah count sesuai dengan yang kita inginkan ###
+### *jika jumlah count sudah mencapai batas limit makan tampilannya akan balik seperti semula ###
+### *jika ketika kita membatasi count misalnya 10 count dan pada saat kita baru mengklik 5 count lalu mengklik riset maka tampilannya akan seperti semula ###
+
 
 
 
