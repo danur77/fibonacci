@@ -8,7 +8,8 @@
 
 # Tugas Pertemuan 6
 
-![gambar tugas](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/49aaf952-758f-404e-a68e-7da72c9b66b1)
+![gambar tugas]![Danang Nurcahyo](https://github.com/danur77/fibonacci/assets/115677839/fb5d1ea7-297a-45be-9dee-4b42bcc836ba)
+
 
 # Langkah-Langkah
 
