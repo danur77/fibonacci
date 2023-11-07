@@ -113,7 +113,7 @@
  <resources>
     <string name="app_name">Tugasenam</string>
     <string name="button_label_count">Count</string>
-    <string name="count_initial_value"> </string>
+    <string name="count_initial_value">0</string>
     <string name="button_label_finish">Reset</string>
     <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
 </resources>
@@ -239,7 +239,11 @@ Untuk run app ini saya menggunakan hp android . Berikut ini adalah tampilan dari
 * Tombol Toast ditekan, maka akan muncul message "Bilangan Fibonacci" seperti berikut
 
 
-https://github.com/danur77/fibonacci/assets/115677839/04ef146b-7de9-40d5-80c5-018bf3be7019
+
+https://github.com/danur77/fibonacci/assets/115677839/b9e1ef88-1be3-4a22-934e-a583312f8c7d
+
+
+
 
 ### *set bilangan limit berguna untuk membatasi jumlah count sesuai dengan yang kita inginkan ###
 ### *jika jumlah count sudah mencapai batas limit makan tampilannya akan balik seperti semula ###
